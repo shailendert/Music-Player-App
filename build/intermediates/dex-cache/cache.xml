@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/satendra/AndroidStudioProjects/MusicPlayer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca43b9a2f34027883b5e2b20d6c976d43910cc25">
+        <dex dex="/Users/satendra/AndroidStudioProjects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_640b7b6dbb86b05c8231a143b1ebc1882559a16c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satendra/AndroidStudioProjects/MusicPlayer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1158be61daf248ceb789f77690d16f571fae88b">
+        <dex dex="/Users/satendra/AndroidStudioProjects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4015120df4a13e28c40e44ad50c67e60718f96d2/classes.dex" />
+    </item>
+
+</items>
